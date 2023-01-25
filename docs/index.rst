@@ -1,20 +1,10 @@
-.. jdbowmawritingsample documentation master file, created by
-   sphinx-quickstart on Wed Jan 25 15:15:03 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Josh Bowman Technical Writing Sample
+====================================
 
-Welcome to jdbowmawritingsample's documentation!
-================================================
+This is a sample of my technical writing. This guide will show you how to brew coffee using a French press. I uploaded it to Read the Docs to demonstrate my knowledge of Git and markup languages.
+
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  instructions
