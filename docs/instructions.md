@@ -28,12 +28,12 @@ To begin brewing your French press coffee, you will need:
 5. A tablespoon measuring cup
 6. A cup or mug to pour your coffee into
 
-## Components of a French press
-### Beaker
+##Components of a French press
+## Beaker
 
 The base of a French press coffee pot is a metal, glass, or plastic cylinder or beaker. It has a pouring spout for dispensing coffee and usually a handle for gripping the pot.
 
-### Lid and plunger
+## Lid and plunger
 
 All French presses have a tight-fitting lid with a plunger mechanism going through the center. The plunger is connected to a metal mesh screen at the bottom which acts as a filter to separate the coffee grounds from the liquid coffee. There is a hole on one side of the lid that aligns with the opening on the beaker to allow coffee to pour out after the brewing is done.
 
