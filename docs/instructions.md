@@ -71,7 +71,7 @@ Some brands or blends of coffee may require some timing adjustment, but it is be
 
 ## 5. Plunging the screen and pouring the coffee
 
-After 4 minutes have passed, gently and slowly push the plunger down. Stop just before the very bottom of the beaker. This step separates the liquid coffee from the coffee grounds and pushes the grounds to the bottom, leaving the delicious, hot coffee at the top. The screen will prevent the grounds from being poured out with the coffee.
+After 4 minutes have passed, gently and slowly push the plunger down. Stop just before the very bottom of the beaker. This step separates the liquid coffee from the coffee grounds and pushes the grounds to the bottom, leaving the delicious, hot coffee at the top. The screen will prevent the grounds from being poured out with the c.
 
 Align the opening of the lid with the open spout of the beaker and pour the coffee into the mug, cup, or thermos. Sip carefully, as the coffee is likely very hot.
 
