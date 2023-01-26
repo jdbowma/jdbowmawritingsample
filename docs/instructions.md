@@ -15,7 +15,9 @@ French press coffee is defined by its rich flavor and thick, oily consistency co
 Drip coffee is a much more common method of brewing coffee from coffee grounds. In this method, a thin paper coffee filter is laid in the coffee maker’s basket. The filter holds the coffee grounds. Hot water is poured over the grounds in the filter, which then drips slowly into the coffee pot below. This allows for the coffee grounds to brew in the hot water before dripping into the pot. The paper filter absorbs a large amount of the oil that is present in the coffee grounds.
 
 This lack of oil is one of the primary differences between French press coffee and drip coffee. As French presses use a metal mesh screen attached to a plunger instead of a paper filter, the lipid content in French press coffee is much higher. This results in a thick and rich cup of coffee with a visible layer of oil on top.
-However, this also leads to a slightly grainier cup of coffee as the coffee grounds remain on the bottom of the beaker, below the mesh filter. Small amounts of the grounds can find their way through the filter and into the drink.
+
+However, this also leads to a slightly grainier cup of coffee, as the coffee grounds remain on the bottom of the beaker, below the mesh filter. Small amounts of the grounds can find their way through the filter and into the drink.
+
 
 ## Materials needed
 
@@ -28,7 +30,7 @@ To begin brewing your French press coffee, you will need:
 5. A tablespoon measuring cup
 6. A cup or mug to pour your coffee into
 
-##Components of a French press
+# Components of a French press
 ## Beaker
 
 The base of a French press coffee pot is a metal, glass, or plastic cylinder or beaker. It has a pouring spout for dispensing coffee and usually a handle for gripping the pot.
@@ -55,7 +57,7 @@ Measure the appropriate amount of water for the quantity of grounds used into yo
 
 Bring the water to a boil. When the water begins to boil, turn off the heat.
 
-Wait between 30 seconds and 1 minute to allow the water to cool. Boiling water (212 degrees Fahrenheit) is too hot and will burn the coffee, making it bitter and unpleasant. Thirty seconds to 1 minute of cooling will allow it to reach the desired temperature of just under 200 degrees Fahrenheit.
+Wait between thirty seconds and one minute to allow the water to cool. Boiling water (212 degrees Fahrenheit) is too hot and will burn the coffee, making it bitter and unpleasant. Thirty seconds to one minute of cooling will allow it to reach the desired temperature of just under 200 degrees Fahrenheit.
 
 If you are using an electric kettle with temperature settings, select the setting that is closest to 200 degrees Fahrenheit.
 
@@ -69,7 +71,7 @@ Some brands or blends of coffee may require some timing adjustment, but it is be
 
 ## 5. Plunging the screen and pouring the coffee
 
-After 4 minutes have passed, gently and slowly push the plunger down. Stop just before the very bottom of the beaker. This step separates the liquid coffee from the coffee grounds and pushes the grounds to the bottom, leaving the delicious, hot coffee at the top. The screen will prevent the grounds from being poured out.
+After 4 minutes have passed, gently and slowly push the plunger down. Stop just before the very bottom of the beaker. This step separates the liquid coffee from the coffee grounds and pushes the grounds to the bottom, leaving the delicious, hot coffee at the top. The screen will prevent the grounds from being poured out with the coffee.
 
 Align the opening of the lid with the open spout of the beaker and pour the coffee into the mug, cup, or thermos. Sip carefully, as the coffee is likely very hot.
 
@@ -77,8 +79,18 @@ Align the opening of the lid with the open spout of the beaker and pour the coff
 
 ## Adding extra flavors to your coffee
 
-As with coffee that has been brewed using other methods, there are a number of products that can be added to brewed coffee that will enhance or change its flavor.
+As with coffee that has been brewed using other methods, there are several products that you can add to the brewed coffee that will enhance or change its flavor.
+
 Milk, cream, and non-dairy milk alternatives combine well with brewed coffee. The fats in these products will contribute to an even richer, more decadent texture. They also will reduce the often bitter, intense flavor of the coffee.
 
 ## Fine-tuning your brewing process
+
+As previously mentioned, it is possible that you will need to make some adjustments to your brewing process.
+
+Light and medium roasts of coffee may benefit from 3 minutes of brew time as opposed to 4. Similarly, darker roasts may benefit from an extra minute. If you notice an unpleasant amount of bitterness or acidity, one of these tweaks may solve the problem. Start with the recommended 4 minutes and adjust in the future if needed. 	
+
 ## Other ways to use your French press
+
+A French press can be used for other purposes besides brewing coffee. Among the most useful of these is making milk foam. Milk foam is poured on top of espresso drinks such as cappuccinos.
+
+To make milk foam using your French press, begin by heating whole-fat milk in a pot or pan. Once it reaches 150 degrees Fahrenheit, remove it from heat. Pour the milk into the French press and close the lid. Plunge the filter down 4 times at a medium speed. Then, begin plunging the filter at a rapid pace for 20 seconds. Once the milk has turned into a frothy foam, stop plunging. Pour the milk foam over your brewed coffee or espresso and enjoy.
